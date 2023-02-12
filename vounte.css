@@ -45,3 +45,12 @@ body {
           overflow: hidden; object-fit: cover;
 }
 
+/* Help, Mission and Email list */
+.bottom-page {
+          margin-left: 350px; margin-top: 30px;
+          /* display: grid;
+          grid-template-columns: 1fr 1fr; */
+          align-items: left;
+          height: 1000px;
+}
+
