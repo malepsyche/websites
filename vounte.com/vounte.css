@@ -5,6 +5,10 @@ body {
           font-family: "Inter"; font-weight: 350;
 }
 
+h1 {
+          font-color: black;
+}
+
 .aligner {
           margin-left: 350px; margin-right: 350px;
 }
